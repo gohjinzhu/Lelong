@@ -3,6 +3,7 @@ import { Form } from "./components/form";
 import { Button } from "./components/button";
 
 const config = {
+    width: '100vw',
     initialColorMode: 'light',
     useSystemColorMode: false,
     colors: {
@@ -15,7 +16,7 @@ const config = {
         md: '600px',
         lg: '1060px',
         xl: '1200px',
-        '2xl': '1536px',
+        '2xl': '3000px',
     },
     components: {
         Button,
