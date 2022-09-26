@@ -23,9 +23,9 @@ export default function Home({ propertiesForSale, propertiesForRent }) {
     <div>
       <Box>
         <Box width='100vw' height='500px' mb={5} textAlign='center' opacity='1'>
-          <Text fontSize="48px" fontWeight='bold' fontFamily="Bright Sunshine Demo" zIndex='5' pt='225px'>Lowest Price at Lelong</Text>
+          <Text fontSize="48px" fontWeight='bold' fontFamily="Bright Sunshine Demo" zIndex='5' pt='225px' pr='300px'>Lowest Price at Lelong</Text>
         </Box>
-        <Box backgroundImage="url(./advertisement.png)" bgSize='cover' bgRepeat="no-repeat" width='1880px' height='500px' opacity='0.5' mb={5} position='absolute' top='85px' left='0px'>
+        <Box backgroundImage="url(./advertisement.png)" bgSize='cover' bgRepeat="no-repeat" width='1880px' height='500px' opacity='0.4' mx='0' mb={5} position='absolute' top='85px' left='0px' right='0px'>
 
         </Box>
         <Flex flexWrap="wrap">
