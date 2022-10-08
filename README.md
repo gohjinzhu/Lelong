@@ -1,5 +1,4 @@
-[Lelong](https://lelong.azurewebsites.net/) is a platform for property auction.
-Bidding feature will be rolled out soon.
+[Lelong](https://lelong.azurewebsites.net/) is a show room for real estate.
 
 ## Getting Started
 
