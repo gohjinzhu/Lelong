@@ -1,5 +1,7 @@
 [Lelong](https://lelong.azurewebsites.net/) is a show room for real estate.
 
+Try the dark/light theme with the moon/sun button at the top.
+
 ## Getting Started
 
 First, run the development server:
